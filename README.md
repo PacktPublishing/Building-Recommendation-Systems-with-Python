@@ -1,5 +1,5 @@
 # Building Recommendation Systems with Python [Video]
-This is the code repository for [Building Recommendation Systems with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/building-recommendation-systems-python-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Building Recommendation Systems with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/building-recommendation-systems-python-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish. All the related .CSV files worked in this course are available [here](https://drive.google.com/drive/folders/13sgsgTDV_XmtZnAI1xcdLEAVzLUeVcZ7?usp=sharing)
 ## About the Video Course
 Recommendation Engines have become an integral part of any application. For accurate recommendations, you require user information. The more data you feed to your engine, the more output it can generate – for example, a movie recommendation based on its rating, a YouTube video recommendation to a viewer, or recommending a product to a shopper online.
 
