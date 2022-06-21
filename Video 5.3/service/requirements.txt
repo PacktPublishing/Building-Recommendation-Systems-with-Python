@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 jsonschema==3.0.1
 MarkupSafe==1.1.1
-numpy==1.16.2
+numpy==1.22.0
 pyrsistent==0.14.11
 pytz==2019.1
 scikit-learn==0.20.3
